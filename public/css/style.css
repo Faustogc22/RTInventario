@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21/09/2022, 10:17:06
+    Author     : fgualacata
+*/
+
+.skin-blue-light .main-header .navbar {
+  background-color: #F2295B;
+}
+.skin-blue-light .main-header .logo {
+    background-color: #F2295B;
+ }   
+ .main-footer {
+     background:black;
+  color: white;
+}
+
+.skin-blue-light .wrapper, .skin-blue-light .main-sidebar, .skin-blue-light .left-side {
+  background-color: black;
+}
+
+.skin-blue-light .sidebar a {
+  color: white;
+}
+
+.skin-blue-light .sidebar-menu > li.active > a {
+  color: white;
+  background: red;
+}
+
+.skin-blue-light .sidebar-menu > li.header {
+  color: white;
+  background: red;
+}
+/*.content {
+    background: black;
+}*/
+
+.box-title{
+    color:red;
+}
